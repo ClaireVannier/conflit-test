@@ -1,4 +1,4 @@
-# conflit-test
+REMOTE
 
 j'écris quelques lignes dans le fichiers readme
 encore quelques lignes
